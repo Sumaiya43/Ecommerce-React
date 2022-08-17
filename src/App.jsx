@@ -3,7 +3,9 @@ import SingleProduct from "./pages/SingleProduct.jsx";
 
 const App = () => {
 
-  return <SingleProduct/>
+  return <>
+  <Home/>
+  </>
 
 };
 
